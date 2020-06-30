@@ -1,4 +1,4 @@
-# olo-technical-interview-js
+# Olo-Technical-Interview-JS
 
 ## Background
 This is a trial of the Olo SDET interview coding challenge. The goals here are to get an idea of how long this should take and provide a rubric for comparing other Javascript submissions.
@@ -9,8 +9,8 @@ This is a trial of the Olo SDET interview coding challenge. The goals here are t
 
 ## Getting Started 
 ### 📋 Prerequisites
-* (Node)[https://nodejs.org/en/]
-* (Yarn)[https://classic.yarnpkg.com/en/docs/install/#mac-stable]
+* [Node](https://nodejs.org/en/)
+* [Yarn](https://classic.yarnpkg.com/en/docs/install/#mac-stable)
 
 ### 🚀 Execution
 1. Install packages via `yarn install` (you only need to do this once)
